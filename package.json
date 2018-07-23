@@ -1,0 +1,19 @@
+{
+  "name": "zadanie-17.6_expressjs_html_template_usage",
+  "version": "1.0.0",
+  "description": "html template usage in expressjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miloszpanas"
+  },
+  "author": "Miłosz Panas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
